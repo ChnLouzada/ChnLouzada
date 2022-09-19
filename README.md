@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Camila Louzada.</h1> <br>
+<h1 align="center">Hello world, I'm Camila Louzada. </h1> <br>
 <h2 align="center" >A passionate front-end developer from Brazil, but currently living in Portugal.<br>
 <br><img src="https://media4.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif?cid=790b76111ff5d31f156888db7fba99c251f4fbb905df31c6&rid=giphy.gif&ct=s" align="left" width= "30%" /></h2>
 <br> 
@@ -57,9 +57,9 @@
 </a> </p> 
 
 <div align="center"><br>
-<img alt="chnlouzada" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chnlouzada&show_icons=true&locale=en&layout=compact">
-<img alt="chnlouzada" width="32%" src="https://github-readme-stats.vercel.app/api?username=chnlouzada&show_icons=true&locale=en">
-<img alt="chnlouzada" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=chnlouzada&"></div>
+<img alt="chnlouzada" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chnlouzada&show_icons=true&locale=en&layout=compact">
+<img alt="chnlouzada" width="45%" src="https://github-readme-stats.vercel.app/api?username=chnlouzada&show_icons=true&locale=en">
+</div>
  
 
 
