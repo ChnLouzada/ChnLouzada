@@ -4,7 +4,7 @@
 <br> 
 <br> 
 <div align="left"><br>
-<p width= "40%">🌱 I'm currently learning JavaScript, CSS3, HTML5, ReactJs.</p>
+<p width= "40%">🌱 Currently I'm deepening knowledge in JavaScript, CSS3, HTML5, ReactJs..</p>
 <p width= "40%">⚡ Fun fact: I find it hilarious that the more I study programming, the more I think I have to study programming. 🤯</p>
 <br><br><br></div>
 <br>
