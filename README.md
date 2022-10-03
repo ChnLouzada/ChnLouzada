@@ -41,20 +41,14 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/> 
 </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> 
-</a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> 
-</a> 
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
 </a> 
-<a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="45" height="45"/>
-</a> </p> 
+ </p> 
 
 <div align="center"><br>
 <img alt="chnlouzada" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chnlouzada&show_icons=true&locale=en&layout=compact">
